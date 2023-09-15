@@ -1,0 +1,15 @@
+.container-skill{
+    /* background-color: aliceblue; */
+    transition: transform 0.3s ease;
+     transform-origin: center;
+     margin-bottom: 18px;
+}
+
+.container-skill:hover{
+    transform: scale(1.1);
+}
+
+.container-skill img{
+    width: 244px;
+    height: 224px;
+}

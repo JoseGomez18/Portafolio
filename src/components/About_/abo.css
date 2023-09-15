@@ -1,0 +1,23 @@
+.image-abo{
+    width: 50%;
+}
+
+.image-abo img{
+    width: 500px;
+}
+
+.about2{
+    width: 50%;
+    background: #05054185;
+    height: 407px;
+    border-radius: 12px;
+    padding: 16px;
+}
+
+.about2 #titulo{
+    color: white;
+}
+
+.about2 p{
+    color: aliceblue;
+}
