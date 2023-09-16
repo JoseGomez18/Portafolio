@@ -137,6 +137,9 @@ svg circle:nth-child(2) {
 }  */
 
 @media (max-width: 991px) {
+  #skills{
+    height: auto;
+  }
   .container-skills {
     width: 100%;
     flex-direction: column;

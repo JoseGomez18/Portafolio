@@ -57,7 +57,7 @@ span{
 } */
 
 .imagen img:nth-child(1){
-  object-fit: cover;
+  object-fit: contain;
     width: 379px;
     height: 393px;
     border-radius: 50%;

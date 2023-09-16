@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import imagen from '../../Assets/perfil2.jpeg'
+import imagen from '../../Assets/perfil.jpg'
 import Button from '@mui/material/Button';
 import ArrowDownwardIcon from '@mui/icons-material/ArrowDownward';
 import gif1 from '../../Assets/gif4-f304e6d4.gif'
