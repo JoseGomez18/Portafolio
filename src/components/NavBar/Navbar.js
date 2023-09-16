@@ -20,7 +20,7 @@ import { AiOutlineWhatsApp } from "react-icons/ai";
 
 import "./Nav.css";
 
-const pages = ['Home', 'About me','Skills','Projects','Blog'];
+const pages = ['Home', 'About me','Skills','Projects'];
 
 function Navbar() {
   const [anchorElNav, setAnchorElNav] = React.useState(null);
